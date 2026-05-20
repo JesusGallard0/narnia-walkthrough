@@ -2,28 +2,62 @@
 
 This repository documents my progress through the Narnia wargame from OverTheWire
 
-## Objective
+The focus of Narnia is low-level Linux Binary Exploitation,covering vulnerabilities such as:
 
-Develop and strengthen skills in:
--Binary exploitation
+- Stack-based buffer overflows
 
--Vulnerability analysis
+- Function pointer overwrites
 
--Logical thinking applied to cybersecurity
+- Format string vulnerabilities
+
+- ret2shellcode
+
+- ret2libc
+
+
+
+## Skills Practiced
+
+- x86 Linux exploitation
+
+- Stack memory analysis
+
+- GDB debugging
+
+- payload construction
+
+- Shellcode execution
+
+- Memory corruption analysis
+
+- Linux process internals
+
+## Tooling
+
+- GDB
+
+- perl
+
+- python
+
+- Linux shell utilities
 
 
 ## Structure
 
-Each level will have its own file in the levels directory containing:
+Each level contains:
 
--Problem explaination and relevant background knowledge
+- Vulnerability Analysis
 
--Solution Proccess
+- Exploitation methodology
 
--Commands used
+- Payload construction
 
--Key concepts learned
+- Exploit execution
+
+- Key concepts learned
+
 
 ## Current Status
 
-Level 0-1
+Completed!!!
